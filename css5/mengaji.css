@@ -1,0 +1,264 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body,
+html {
+    overflow: hidden;
+}
+
+
+.albarqylogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+    transform: scale(2);
+}
+
+.albarqyitu {
+    color: white;
+    margin-top: 120px;
+    margin-left: 10px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.ketalbarqy {
+     color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 50px;
+    font-family: 'Roboto Slab', serif;
+    text-align: left;
+}
+
+.top-menu3 ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 25px;
+    font-family: 'Roboto Slab', serif;
+    display: flex;
+    margin-top: 50px;
+    
+}
+
+.top-menu3 {
+     position: fixed;
+     top: 0;
+     left: 0;
+     right: 0;
+     bottom: 0;
+     display: flex;
+     justify-content: right;
+     align-items: center;
+     margin-top: 480px;
+     margin-right: 15px;
+}
+
+
+a.tombolmengaji.bgmengajii {
+    border: 1px #949494 solid;
+    border-radius: 10px;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+
+/* hp */
+@media screen and (max-width: 768px) {
+    .albarqylogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+    transform: scale(2);
+}
+
+.albarqyitu {
+    color: white;
+    margin-top: 120px;
+    margin-left: 10px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.ketalbarqy {
+    color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 50px;
+    font-family: 'Roboto Slab', serif;
+    text-align: left;
+}
+
+.top-menu3 ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 25px;
+    font-family: 'Roboto Slab', serif;
+    display: flex;
+    margin-top: 50px;
+    
+}
+
+.top-menu3 {
+     position: fixed;
+     top: 0;
+     left: 0;
+     right: 0;
+     bottom: 0;
+     display: flex;
+     justify-content: right;
+     align-items: center;
+     margin-top: 480px;
+     margin-right: 15px;
+}
+
+
+a.tombolmengaji.bgmengajii {
+    border: 1px #949494 solid;
+    border-radius: 10px;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+}
+
+
+/* tablet */
+@media screen and (min-width: 768px) {
+    .albarqylogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+    transform: scale(2);
+}
+
+.albarqyitu {
+    color: white;
+    margin-top: 120px;
+    margin-left: 10px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 23px;
+}
+
+.ketalbarqy {
+     color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 50px;
+    font-family: 'Roboto Slab', serif;
+    text-align: left;
+    font-size: 23px;
+}
+
+.top-menu3 ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 25px;
+    font-family: 'Roboto Slab', serif;
+    display: flex;
+    margin-top: 50px;
+    
+}
+
+.top-menu3 {
+     position: fixed;
+     top: 0;
+     left: 0;
+     right: 0;
+     bottom: 0;
+     display: flex;
+     justify-content: right;
+     align-items: center;
+     margin-top: 480px;
+     margin-right: 15px;
+}
+
+
+a.tombolmengaji.bgmengajii {
+    border: 1px #949494 solid;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+}
+
+
+/* laptop */
+@media screen and (min-width: 1024px) {
+    .albarqylogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+    transform: scale(2.4);
+}
+
+.albarqyitu {
+    color: white;
+    margin-top: 120px;
+    margin-left: 10px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+}
+
+.ketalbarqy {
+    color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 100px;
+   font-family: 'Roboto Slab', serif;
+    text-align: left;
+    font-size: 25px;
+}
+
+.top-menu3 ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 25px;
+    font-family: 'Roboto Slab', serif;
+    display: flex;
+    margin-top: 50px;
+    
+}
+
+.top-menu3 {
+     position: fixed;
+     top: 0;
+     left: 0;
+     right: 0;
+     bottom: 0;
+     display: flex;
+     justify-content: right;
+     align-items: center;
+     margin-top: 480px;
+     margin-right: 15px;
+}
+
+
+a.tombolmengaji.bgmengajii {
+    border: 1px #949494 solid;
+    border-radius: 10px;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+}
